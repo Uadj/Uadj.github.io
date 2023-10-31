@@ -100,17 +100,20 @@ content:
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-  - title: A Little More About Me
+  - title: Certification
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - 정보처리기사
+      - 정보통신기사
+      - 전기기사
+      - 전기공사기사
+      - 전자기사
+      - 소방설비기사(전기분야)
+      - 산업안전기사
+      - 컴퓨터활용능력1급
+      - 리눅스마스터2급
+      - 네트워크관리사2급
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
