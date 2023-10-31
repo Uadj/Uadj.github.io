@@ -48,17 +48,16 @@ linkedin_username: 규원-도-272412181
 # about_title: About Me
 about_profile_image: # images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  JAVA spring boot를 위주로 준비하고 있는 취업준비생입니다.
+  JAVA <mark>spring boot</mark>를 위주로 준비하고 있는 취업준비생입니다.
 
-  <mark>Spring boot</mark>
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: 
+        link: github.com/uadj
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -82,7 +81,7 @@ content:
         sub_title: 전기직(비개발)
         caption: 2020.08.03 - 2023.08.03
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          
         description: | # this will include new lines to allow paragraphs
             지하철 전기설비유지보수
 
@@ -91,17 +90,17 @@ content:
     content:
       - layout: left
         title: 경희대학교
-        caption: 2013 - 2019
+        caption: 2013.03 - 2019.02
         sub_title: 전자공학과
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-          전자회로, 통신, 임베디드, 반도체 등의 대학교육
+          전자회로, 통신, 임베디드, 반도체, 기초 프로그래밍(C++, Python) 등의 대학교육
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          
 
   - title: Certification
-    layout: list
+    layout: text
     content: | # this will include new lines to allow paragraphs
       - 정보처리기사
       - 정보통신기사
