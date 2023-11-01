@@ -85,6 +85,16 @@ content:
         description: | # this will include new lines to allow paragraphs
             지하철 전기설비유지보수
 
+        - layout: left
+        title: 한전KPS
+        #link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: 체험형 인턴(비개발)
+        caption: 2020.08.03 - 2023.08.03
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+            지하철 전기설비유지보수
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
