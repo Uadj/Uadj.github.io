@@ -45,10 +45,10 @@ linkedin_username: 규원-도-272412181
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+# about_title: 소개
 about_profile_image: # images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  JAVA <mark>spring boot</mark>를 위주로 준비하고 있는 취업준비생입니다.
+  JAVA spring boot를 사용하며 백엔드 개발자가 되기 위해 준비중입니다.
 
 
 content:
@@ -67,11 +67,11 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          아직은 클론 및 학습 프로젝트 밖에 없습니다. 곧 주도적으로 제작한 프로젝트를 업로드 하도록 하겠습니다.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+         
 
-  - title: Career # Title for the section
+  - title: 경력 # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -98,7 +98,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             송전설비 정비 보조
             
-  - title: Education # Title for the section
+  - title: 학교교육 # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -112,7 +112,7 @@ content:
 
           
 
-  - title: Certification
+  - title: 자격증
     layout: text
     content: | # this will include new lines to allow paragraphs
       - 정보처리기사
@@ -127,6 +127,14 @@ content:
       - 네트워크관리사2급
       - TOEIC 835
       - JLPT N1
+
+  - title: 외부교육
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - JAVA & Spring boot로 시작하는 웹개발(fastcampus)
+      - 인공지능 기본과정(경북대학교 산학협력단)
+      - 메타버스 아카데미 서버 개발자, 응용소프트웨어 개발자 과정 (미수료)
+      - 독학(Inflearn, Fastcampus, Udemy, 책 등)
 
 
 # Footer
