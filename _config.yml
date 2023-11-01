@@ -48,7 +48,7 @@ linkedin_username: 규원-도-272412181
 # about_title: 소개
 about_profile_image: # images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  JAVA spring boot를 사용하며 백엔드 개발자가 되기 위해 준비중입니다.
+                JAVA spring boot를 사용하며 백엔드 개발자가 되기 위해 준비중입니다.
 
 
 content:
@@ -71,7 +71,7 @@ content:
         description: | # this will include new lines to allow paragraphs
          
 
-  - title: 경력 # Title for the section
+  - title: 경력(비개발) # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -84,7 +84,7 @@ content:
           
         description: | # this will include new lines to allow paragraphs
             지하철 전기설비유지보수
-  - title: Intern # Title for the section
+  - title: 인턴 # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -112,7 +112,7 @@ content:
 
           
 
-  - title: 자격증
+  - title: 자격증 및 어학
     layout: text
     content: | # this will include new lines to allow paragraphs
       - 정보처리기사
